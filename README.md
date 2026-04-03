@@ -159,9 +159,8 @@ README.md
 ## 👨‍💻 Author
 
 **[Mulugeta Omata]**
-Patient Management System Database Project
 
----
+Patient Management System Database Project
 
 ## ⭐ Notes
 
