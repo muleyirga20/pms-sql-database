@@ -160,7 +160,8 @@ README.md
 
 **[Mulugeta Omata]**
 
-Patient Management System Database Project
+* Patient Management System Database Project
+* November 11, 2024
 
 ## ⭐ Notes
 
