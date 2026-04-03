@@ -1,6 +1,6 @@
-# 🏥 Patient Management System Database Project
+# Patient Management System Database Project
 
-## 📌 Overview
+## Overview
 
 The **Patient Management System** is a SQL Server–based database project designed to manage healthcare data efficiently. It supports storing and retrieving patient information, managing appointments, tracking physicians, and generating reports for decision-making.
 
