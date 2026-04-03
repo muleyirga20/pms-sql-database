@@ -36,32 +36,28 @@ This project demonstrates **real-world database design, optimization, and busine
 * One **Physician** → Many **Appointments**
 * Foreign keys ensure **data consistency and integrity**
 
----
-
 ## ⚙️ Features Implemented
 
-   ### ✅ Data Integrity
+### ✅ Data Integrity
 
-       * Primary Keys & Foreign Keys
-       * Unique constraints (e.g., Social Security)
-       * Check constraints (valid age, etc.)
+ * Primary Keys & Foreign Keys
+ * Unique constraints (e.g., Social Security)
+ * Check constraints (valid age, etc.)
 
    ### ⚡ Performance Optimization
    
-      * Indexes on frequently used columns:
-      
-        * `AppointmentDate`
-        * `PhysicianID`
-      * Use of **covering and composite indexes**
+* Indexes on frequently used columns:
 
-   ### 🧠 Business Logic
-   
-     * Prevent double booking of physicians
-     * Automatic appointment status handling
-     * Data validation in stored procedures
+  * `AppointmentDate`
+  * `PhysicianID`
+* Use of **covering and composite indexes**
+
+### 🧠 Business Logic
+
+* Prevent double booking of physicians
+* Automatic appointment status handling
+* Data validation in stored procedures
      
-     ---
-
 ## 📦 Stored Procedures
 
 Examples:
