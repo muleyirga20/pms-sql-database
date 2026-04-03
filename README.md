@@ -38,11 +38,11 @@ This project demonstrates **real-world database design, optimization, and busine
 
 ## ⚙️ Features Implemented
 
-### ✅ Data Integrity
-
- * Primary Keys & Foreign Keys
- * Unique constraints (e.g., Social Security)
- * Check constraints (valid age, etc.)
+   ### ✅ Data Integrity
+   
+    * Primary Keys & Foreign Keys
+    * Unique constraints (e.g., Social Security)
+    * Check constraints (valid age, etc.)
 
    ### ⚡ Performance Optimization
    
@@ -51,12 +51,12 @@ This project demonstrates **real-world database design, optimization, and busine
   * `AppointmentDate`
   * `PhysicianID`
 * Use of **covering and composite indexes**
-
-### 🧠 Business Logic
-
-* Prevent double booking of physicians
-* Automatic appointment status handling
-* Data validation in stored procedures
+   
+   ### 🧠 Business Logic
+   
+   * Prevent double booking of physicians
+   * Automatic appointment status handling
+   * Data validation in stored procedures
      
 ## 📦 Stored Procedures
 
